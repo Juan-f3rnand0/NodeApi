@@ -1,0 +1,6 @@
+node_modules/
+#dotenv enviroment variable files
+# .env
+# .env.development.local
+# .env.tast.local
+# .env.local
